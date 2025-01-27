@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-left:20px;
+    padding-right:20px;
+}
+header{
+    background-color: #E8D4FF;
+    color: #FFFED3;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom:20px;
+}
+nav{
+    display:flex;
+    gap: 20px;
+}
+h1{
+    font-family: "Great Vibes", serif;
+    color: #FFFED3;
+}
+a{
+    font-family: "Lobster", serif;
+    color: #FFFED3;
+}
+.bracelet_film{
+    display:flex;
+    align-items: center;
+}
+.bracelet_img{
+    width:40%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+}
+.keychain{
+    justify-content: center;
+    gap:350px;
+}
+.keychain_img{
+    width:40%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+.bracelet_hobby{
+    display:flex;
+    align-items: center;
+}
+.hobby_img{
+    width:40%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+    padding-left:40px;
+}
+.first{
+    font-family: "Great Vibes", serif;
+    color: rgba(255, 249, 66, 0.87);
+    font-size:30px;
+}
+.first_bracelets{
+    background-color: rgba(215, 182, 255, 0.79);
+    margin-bottom:20px;
+}
+.second_bracelets{
+    background-color: rgba(197, 149, 255, 0.56);
+    margin-bottom:20px;
+}
+.second{
+    font-family: "Great Vibes", serif;
+    background-color: rgba(210, 173, 255, 0.82);
+    color: rgba(255, 249, 66, 0.94);
+    font-size:50px;
+}
+.bear_star{
+    display:flex;
+    gap:600px;
+    padding-left:45px;
+    
+}
+.skys{
+    display:flex;
+    gap:600px;
+    padding-left:445px;
+    
+}
+.four{
+    font-family: "Great Vibes", serif;
+    color: rgba(255, 249, 66, 0.94);
+    display:flex;
+    justify-content: center;
+}
+.raindow{
+    display:flex;
+    padding-left:45px;
+    gap:900px;
+}
+.sunrise{
+    display:;
+    padding-left:445px;
+    
+}
+.necklaces{
+    display:flex;
+    align-items: center;
+    gap:350px;
+}
+.heart_bow{
+    width:40%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+    padding-left:40px;
+    
+}
+.earring{
+    
+}
+.earrings_img{
+
+    
+}
+.sets{
+    background-color: rgba(210, 173, 255, 0.82);
+    margin-bottom:20px;
+}
+.sets_two{
+    display:flex;
+    align-items: center;
+    
+}
+.sets_img{
+    width:40%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    
+}
+h2{
+    font-family: "Lobster", serif;
+    color: #FFFED3;
+    background-color: rgba(197, 149, 255, 0.67);
+}
+.third{
+    font-family: "Great Vibes", serif;
+    color: rgba(255, 249, 66, 0.82);
+    background-color: rgba(197, 149, 255, 0.67);
+}
+.three{
+    font-family: "Lobster", serif;
+    color: #FFFED3;
+    background-color: rgba(197, 149, 255, 0.67);
+}
+.question-answer{
+    background-color: rgba(197, 149, 255, 0.67);
+    margin-bottom:20px;
+}
+footer>h1{
+    color:rgba(255, 254, 211, 1);
+    font-family: "Lobster", serif;
+    background-color:rgba(197, 149, 255, 0.76);
+}
+footer>p{
+    color:rgba(255, 254, 211, 1);
+    background-color:rgba(197, 149, 255, 0.76);
+}
+footer>b{
+    color:rgba(255, 249, 66, 0.84);
+    background-color:rgba(197, 149, 255, 0.76);
+}

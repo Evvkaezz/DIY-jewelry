@@ -187,3 +187,31 @@ footer>b{
     color:rgba(255, 249, 66, 0.84);
     background-color:rgba(197, 149, 255, 0.76);
 }
+.anim1:hover{
+    animation: anims 10s 10;
+}
+@keyframes anims{
+    0%{
+        transform:scale(1);
+    }
+    50%{
+        transform:scale(1.5);
+    }
+    100%{
+        transform:scale(1);
+    }
+}
+.four{
+    animation: anims2 10s 10;
+}
+@keyframes anims2{
+    0%{
+        transform:scale(1);
+    }
+    50%{
+        transform:scale(0.5);
+    }
+    100%{
+        transform:scale(1);
+    }
+}
